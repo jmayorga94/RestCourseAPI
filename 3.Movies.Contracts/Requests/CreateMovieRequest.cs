@@ -1,3 +1,5 @@
+using Movies.Application.Models;
+
 namespace Movies.Contracts.Requests;
 
 public class CreateMovieRequest
